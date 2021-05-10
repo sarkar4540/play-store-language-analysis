@@ -1,0 +1,6 @@
+data*
+node_modules
+.ipynb_checkpoints
+app_data.csv
+review_data.csv
+package-lock.json

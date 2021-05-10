@@ -1,0 +1,17 @@
+{
+  "name": "data-scraping",
+  "version": "1.0.0",
+  "description": "Play Store data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^5.0.0",
+    "csv-writer": "^1.6.0",
+    "google-play-scraper": "^8.0.2",
+    "remove": "^0.1.5"
+  }
+}
